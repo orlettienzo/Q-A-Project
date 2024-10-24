@@ -1,0 +1,44 @@
+Q|Dans quel pays est né Cristiano Ronaldo ?
+A|Portugal|V
+A|Espagne|X
+A|Brésil|X
+A|Argentine|X
+
+Q|Quel est le nom complet de Cristiano Ronaldo ?
+A|Cristiano Ronaldo dos Santos Aveiro|V
+A|Cristiano Luís dos Santos Aveiro|X
+A|Cristiano Ronaldo de Souza Aveiro|X
+A|Cristiano Ricardo dos Santos Aveiro|X
+
+Q|Quel a été le premier club professionnel de Cristiano Ronaldo ?
+A|Sporting CP|V
+A|Manchester United|X
+A|Real Madrid|X
+A|Juventus|X
+
+Q|Combien de fois Cristiano Ronaldo a-t-il remporté le Ballon d'Or jusqu'en 2023 ?
+A|5 fois|V
+A|4 fois|X
+A|6 fois|X
+A|7 fois|X
+
+Q|Dans quel club Cristiano Ronaldo a-t-il joué entre 2009 et 2018 ?
+A|Real Madrid|V
+A|Manchester United|X
+A|Juventus|X
+A|Sporting CP|X
+
+
+Q|Quels sont les trophées remportés par Cristiano Ronaldo au niveau des équipes nationales ?
+A|Championnat d'Europe (Euro 2016)|V
+A|Ligue des Nations de l'UEFA (2019)|V
+A|Coupe du Monde|X
+A|Toutes les réponses précédentes|X
+
+
+Q|Quels numéros de maillot Cristiano Ronaldo a-t-il portés tout au long de sa carrière ?
+A|Numéro 7 |V
+A|Numéro 9|V
+A|Numéro 17 |V
+A|Numéro 28|V
+A|Toutes les réponses précédentes|V
